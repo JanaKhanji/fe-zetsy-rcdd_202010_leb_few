@@ -33,6 +33,9 @@ h2{
 color: rgb(111,127,122);
 font-size: 25px;
 }
+p{
+  font-weight: lighter;
+}
 
 .press img{
   border: 5px #ccc solid;
