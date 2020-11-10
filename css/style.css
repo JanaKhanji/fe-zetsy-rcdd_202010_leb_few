@@ -32,5 +32,9 @@ color: rgb(111,127,122);
 }
 
 .press img{
+  border: 5px #ccc solid;
+    padding: 1px;
+}
+.press img :hover{
   
 }
